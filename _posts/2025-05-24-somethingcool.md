@@ -1,0 +1,4 @@
+---
+title: "somethingcool"
+date: 2025-05-24
+---
